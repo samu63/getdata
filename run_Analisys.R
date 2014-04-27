@@ -10,7 +10,7 @@ library(data.table)
 
 #set workdir:
 #local path
-#setwd("W:\\c_samu\\DISCO_E\\c_samu\\samu\\samu\\UNINETTUNO\\Corsiliberi\\COURSERA\\R_Programming\\assignement_3\\assignement\\UCI HAR Dataset")
+#setwd("")
 #
 # START Merge the training and the test sets and create one data set
 if (!file.exists("test/X_test.txt")) stop ("test/X_test.txt not found.")
